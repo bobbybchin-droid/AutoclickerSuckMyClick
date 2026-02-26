@@ -1,0 +1,8 @@
+{
+  "run_a": "shift + 1",
+  "run_b": "shift + 2",
+  "stop_all": "shift + 3",
+  "quick_pick": "*",
+  "add_action": "-",
+  "run_all": "ctrl + 1"
+}

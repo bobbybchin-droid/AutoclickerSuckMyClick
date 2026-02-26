@@ -1,0 +1,347 @@
+{
+  "version": "1.0",
+  "module_a": {
+    "name": "Module A",
+    "actions": [
+      {
+        "action_type": "click",
+        "x": 703,
+        "y": 608,
+        "button": "left",
+        "clicks": 2,
+        "delay_ms": 1750,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 785,
+        "y": 435,
+        "button": "left",
+        "clicks": 2,
+        "delay_ms": 1750,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1037,
+        "y": 529,
+        "button": "left",
+        "clicks": 2,
+        "delay_ms": 1750,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      }
+    ],
+    "loop": true,
+    "loop_count": 9
+  },
+  "module_b": {
+    "name": "Module B",
+    "actions": [
+      {
+        "action_type": "click",
+        "x": 1320,
+        "y": 801,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1369,
+        "y": 802,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1398,
+        "y": 796,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1276,
+        "y": 834,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1319,
+        "y": 833,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1359,
+        "y": 834,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1399,
+        "y": 835,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1279,
+        "y": 870,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1317,
+        "y": 869,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1352,
+        "y": 869,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1393,
+        "y": 869,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1277,
+        "y": 902,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1322,
+        "y": 901,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1354,
+        "y": 901,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1398,
+        "y": 905,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1278,
+        "y": 943,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1319,
+        "y": 944,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1362,
+        "y": 944,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1404,
+        "y": 944,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1273,
+        "y": 977,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1323,
+        "y": 975,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1365,
+        "y": 973,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1394,
+        "y": 975,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1273,
+        "y": 1010,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1315,
+        "y": 1006,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1362,
+        "y": 1016,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      },
+      {
+        "action_type": "click",
+        "x": 1400,
+        "y": 1014,
+        "button": "left",
+        "clicks": 1,
+        "delay_ms": 200,
+        "label": "",
+        "key_text": "",
+        "key_action": "press"
+      }
+    ],
+    "loop": false,
+    "loop_count": 0
+  }
+}
